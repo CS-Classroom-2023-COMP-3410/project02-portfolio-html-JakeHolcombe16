@@ -1,0 +1,1 @@
+While developing I didn't use AI very much, since I understand the basics of HTML, it mostly helped me figure out the depricated parts of HTML that were necessary for coloring and positioning without CSS. But my extra pages I added projects and a blog. Overall this project was fairly simple, but had some difficulties due to the outdated HTML.
